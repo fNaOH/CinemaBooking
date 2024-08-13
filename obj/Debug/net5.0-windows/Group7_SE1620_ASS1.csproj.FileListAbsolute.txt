@@ -1,0 +1,174 @@
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.exe
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\appsettings.json
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.deps.json
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.json
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.dev.json
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Memory.Data.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.AssemblyReference.cache
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.LoginGUI.resources
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.MainGUI.resources
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowAddEditGUI.resources
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowGUI.resources
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.Properties.Resources.resources
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.GenerateResource.cache
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfoInputs.cache
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfo.cs
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CoreCompileInputs.cache
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CopyComplete
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\refint\Group7_SE1620_ASS1.dll
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.genruntimeconfig.cache
+D:\New folder\Group7_SE1620_ASS1\SE1616_Win\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\ref\Group7_SE1620_ASS1.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.exe
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.deps.json
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.json
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.dev.json
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.LoginGUI.resources
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.MainGUI.resources
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowAddEditGUI.resources
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowGUI.resources
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.Properties.Resources.resources
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.GenerateResource.cache
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfoInputs.cache
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfo.cs
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CopyComplete
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\refint\Group7_SE1620_ASS1.dll
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.genruntimeconfig.cache
+C:\Users\win\Downloads\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\ref\Group7_SE1620_ASS1.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.exe
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\appsettings.json
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.deps.json
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.json
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.runtimeconfig.dev.json
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\ref\Group7_SE1620_ASS1.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Memory.Data.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.AssemblyReference.cache
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.LoginGUI.resources
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.MainGUI.resources
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowAddEditGUI.resources
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GUI.ShowGUI.resources
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.Properties.Resources.resources
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.GenerateResource.cache
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfoInputs.cache
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.AssemblyInfo.cs
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.csproj.CopyComplete
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\ref\Group7_SE1620_ASS1.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.pdb
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\Group7_SE1620_ASS1.genruntimeconfig.cache
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Humanizer.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio\Group7_SE1620_ASS1\Group7_SE1620_ASS1\obj\Debug\net5.0-windows\refint\Group7_SE1620_ASS1.dll
